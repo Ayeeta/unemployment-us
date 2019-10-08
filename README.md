@@ -6,7 +6,7 @@ In this project we gain insight from the unemployment dataset. Find out the rela
 
 Unemployment rate in 6 different states. 
 
-![alt text](https://github.com/Ayeeta/unemployment-us/blob/master/img/img.png)
+![unemployment graph 2007-2018](https://github.com/Ayeeta/unemployment-us/blob/master/img/img.png)
 
 #### Set up
 * Clone or download repo
